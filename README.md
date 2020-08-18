@@ -1,4 +1,4 @@
-<img src="images/top.svg" alt="Top">
+![top.png](https://i.loli.net/2020/08/18/C78XfFH9qZs4aUL.png)
 
 <h2 align="center">
   Hello, I'm <b>Hendra Agil</b>
@@ -22,4 +22,4 @@
   <img src="https://github-readme-stats.vercel.app/api?username=hendraaagil&show_icons=true" alt="Hendra's GitHub Stats">
 </p>
 
-<img src="images/bottom.svg" alt="Bottom">
+![bottom.png](https://i.loli.net/2020/08/18/kBTKzpXvYjsacCE.png)
