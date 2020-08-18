@@ -1,4 +1,4 @@
-![Top](images/top.svg)
+<img src="images/top.svg" alt="Top">
 
 <h2 align="center">
   Hello, I'm <b>Hendra Agil</b>
@@ -22,4 +22,4 @@
   <img src="https://github-readme-stats.vercel.app/api?username=hendraaagil&show_icons=true" alt="Hendra's GitHub Stats">
 </p>
 
-![Bottom](images/bottom.svg)
+<img src="images/bottom.svg" alt="Bottom">
