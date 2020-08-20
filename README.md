@@ -18,8 +18,12 @@
 ---
 
 <p align="center">
-  <br/><i>Talk less, do more</i><br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=hendraaagil&show_icons=true" alt="Hendra's GitHub Stats">
+  <br/>
+  <i>Talk less, do more</i>
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=hendraaagil&count_private=true&show_icons=true" alt="Hendra's GitHub Stats">
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hendraaagil&layout=compact" alt="Hendra's GitHub Top Langs">
 </p>
 
 ![bottom.png](https://i.loli.net/2020/08/18/kBTKzpXvYjsacCE.png)
