@@ -22,7 +22,7 @@
   <br/>
   <i>Talk less, do more</i>
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=hendraaagil&count_private=true&show_icons=true" alt="Hendra's GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=hendraaagil&count_private=false&show_icons=true" alt="Hendra's GitHub Stats">
   <br/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hendraaagil&layout=compact" alt="Hendra's GitHub Top Langs">
 </p>
