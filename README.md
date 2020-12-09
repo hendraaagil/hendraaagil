@@ -13,6 +13,6 @@ Hi, I'm [Hendra Agil](https://hendraaagil.github.io) 👋
 
 <br />
 
-[![Hendra's github stats](https://github-readme-stats.vercel.app/api?username=hendraaagil&show_icons=true)](https://github.com/hendraaagil)
+[![Hendra's github stats](https://github-readme-stats.vercel.app/api?username=hendraaagil&theme=react&show_icons=true)](https://github.com/hendraaagil)
 
 ⭐️ From [hendraaagil](https://github.com/hendraaagil)
