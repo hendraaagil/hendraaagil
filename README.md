@@ -8,12 +8,11 @@ Hi, I'm [Hendra Agil](https://hendraaagil.github.io) 👋
 <a href="https://twitter.com/hendraaagil" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white" alt="Twitter"></a>
 <a href="https://instagram.com/hendraaagil" target="_blank"><img src="https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://linkedin.com/in/hendraaagil" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://github.com/hendraaagil" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="GitHub"></a>
 <a href="https://t.me/hendraaagil" target="_blank"><img src="https://img.shields.io/badge/-Telegram-2ca5e0?style=flat-square&logo=telegram" alt="Telegram"></a>
 
 <br />
 
-![Hendra's github stats](https://github-readme-stats.vercel.app/api?username=hendraaagil&theme=react&show_icons=true)
-![Hendra's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hendraaagil&layout=compact&theme=react)
+![Hendra's github stats](https://github-readme-stats.vercel.app/api?username=hendraaagil&theme=react&show_icons=true&custom_title=Hendra%20Agil%27s%20GitHub%20Stats)
+![Hendra's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hendraaagil&theme=react&layout=compact&langs_count=8&custom_title=Hendra%20Agil%27s%20Wakatime%20Stats)
 
 ⭐️ From [hendraaagil](https://github.com/hendraaagil)
