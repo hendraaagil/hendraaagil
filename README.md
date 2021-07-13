@@ -1,18 +1,29 @@
-### Hello World
+![Hendra Agil's Card Name](https://cardivo.vercel.app/api?name=Hendra%20Agil&description=Hi,%20I%27m%20a%20Front-End%20Web%20Developer%20and%20I%27m%2017%20y.o.%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://raw.githubusercontent.com/hendraaagil/website/main/public/ha-logo.png&backgroundColor=%231d1f28&pattern=brickWall&colorPattern=%23EFF4F6&opacity=0.05&fontColor=%23eff4f6)
 
-Hi, I'm [Hendra Agil](https://hendraaagil.github.io) 👋
+<div align="center">
 
-![age](https://img.shields.io/badge/age-17-blue)
-<a href="mailto:hendraaagil@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Email"></a>
-<a href="https://facebook.com/hendraaagil" target="_blank"><img src="https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
-<a href="https://twitter.com/hendraaagil" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white" alt="Twitter"></a>
-<a href="https://instagram.com/hendraaagil" target="_blank"><img src="https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://linkedin.com/in/hendraaagil" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://t.me/hendraaagil" target="_blank"><img src="https://img.shields.io/badge/-Telegram-2ca5e0?style=flat-square&logo=telegram" alt="Telegram"></a>
+  <a href="mailto:hendraaagil@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://facebook.com/hendraaagil" target="_blank">
+    <img src="https://img.shields.io/badge/-Facebook-1877f2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+  </a>
+  <a href="https://twitter.com/hendraaagil" target="_blank">
+    <img src="https://img.shields.io/badge/twitter-%231DA1F2?&style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/hendraaagil" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-e4405f?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://linkedin.com/in/hendraaagil" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://t.me/hendraaagil" target="_blank">
+    <img src="https://img.shields.io/badge/-Telegram-2ca5e0?style=for-the-badge&logo=telegram" alt="Telegram">
+  </a>
 
-<br />
+---
 
 ![Hendra's github stats](https://github-readme-stats.vercel.app/api?username=hendraaagil&theme=react&show_icons=true&custom_title=Hendra%20Agil%27s%20GitHub%20Stats)
-![Hendra's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hendraaagil&theme=react&layout=compact&langs_count=8&custom_title=Hendra%20Agil%27s%20Wakatime%20Stats)
+![Hendra's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hendraaagil&theme=react&layout=compact&langs_count=10&custom_title=Hendra%20Agil%27s%20Wakatime%20Stats)
 
-⭐️ From [hendraaagil](https://github.com/hendraaagil)
+</div>
