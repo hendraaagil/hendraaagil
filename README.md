@@ -3,27 +3,32 @@
 <div align="center">
 
   <a href="mailto:hendraaagil@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://facebook.com/hendraaagil" target="_blank">
-    <img src="https://img.shields.io/badge/-Facebook-1877f2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+    <img src="https://img.shields.io/badge/-Facebook-1877f2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
   <a href="https://twitter.com/hendraaagil" target="_blank">
-    <img src="https://img.shields.io/badge/twitter-%231DA1F2?&style=for-the-badge&logo=twitter&logoColor=white"/>
+    <img src="https://img.shields.io/badge/twitter-%231DA1F2?&style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
   <a href="https://instagram.com/hendraaagil" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-e4405f?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+    <img src="https://img.shields.io/badge/-Instagram-e4405f?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://linkedin.com/in/hendraaagil" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://t.me/hendraaagil" target="_blank">
-    <img src="https://img.shields.io/badge/-Telegram-2ca5e0?style=for-the-badge&logo=telegram" alt="Telegram">
+    <img src="https://img.shields.io/badge/-Telegram-2ca5e0?style=for-the-badge&logo=telegram" alt="Telegram" />
   </a>
 
 ---
 
-![Hendra's github stats](https://github-readme-stats.vercel.app/api?username=hendraaagil&theme=react&show_icons=true&custom_title=Hendra%20Agil%27s%20GitHub%20Stats)
-![Hendra's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hendraaagil&theme=react&layout=compact&langs_count=10&custom_title=Hendra%20Agil%27s%20Wakatime%20Stats)
+<details>
+  <summary>Show more</summary>
+  <br />
+  <img src="https://lanyard-profile-readme.vercel.app/api/730339888804921346" alt="Discord Presence" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hendraaagil&theme=react&show_icons=true&custom_title=Hendra%20Agil%27s%20GitHub%20Stats" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=hendraaagil&theme=react&layout=compact&langs_count=10&custom_title=Hendra%20Agil%27s%20Wakatime%20Stats" alt="Wakatime Stats" />
+</details>
 
 </div>
