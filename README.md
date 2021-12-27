@@ -6,7 +6,7 @@
   <div style="display: flex; width: 100%; justify-content: center; align-items: center;">
     <div style="margin: 0 5px;">
       <a href="https://app.daily.dev/hendraaagil">
-        <img src="https://api.daily.dev/devcards/4ec5643ee0ff465bbedeaf7344b18812.png?r=19m" width="300" alt="Hendra Agil Syaputra's Dev Card"/>
+        <img src="https://api.daily.dev/devcards/4ec5643ee0ff465bbedeaf7344b18812.png?r=19m" width="275" alt="Hendra Agil Syaputra's Dev Card"/>
       </a>
     </div>
     <div style="display: flex; flex-direction: column; margin: 0 5px;">
@@ -21,8 +21,8 @@
           <img src="https://img.shields.io/badge/-Telegram-2ca5e0?style=for-the-badge&logo=telegram" alt="Telegram" />
         </a>
       </div>
-      <img src="https://github-readme-stats.vercel.app/api?username=hendraaagil&theme=react&show_icons=true&custom_title=Hendra%20Agil%27s%20GitHub%20Stats" width="450" alt="GitHub Stats" style="margin-top: 10px;" />
-      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=hendraaagil&theme=react&layout=compact&langs_count=10&custom_title=Hendra%20Agil%27s%20Wakatime%20Stats" width="450" alt="Wakatime Stats" style="margin-top: 10px;" />
+      <img src="https://github-readme-stats.vercel.app/api?username=hendraaagil&theme=react&show_icons=true&custom_title=Hendra%20Agil%27s%20GitHub%20Stats" width="400" alt="GitHub Stats" style="margin-top: 10px;" />
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=hendraaagil&theme=react&layout=compact&langs_count=10&custom_title=Hendra%20Agil%27s%20Wakatime%20Stats" width="400" alt="Wakatime Stats" style="margin-top: 10px;" />
     </div>
   </div>
 </div>
