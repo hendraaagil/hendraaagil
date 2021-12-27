@@ -6,7 +6,7 @@
   <div style="display: flex; width: 100%; justify-content: center; align-items: center;">
     <div style="margin: 0 5px;">
       <a href="https://app.daily.dev/hendraaagil">
-        <img src="https://api.daily.dev/devcards/4ec5643ee0ff465bbedeaf7344b18812.png?r=19m" width="325" alt="Hendra Agil Syaputra's Dev Card"/>
+        <img src="https://api.daily.dev/devcards/4ec5643ee0ff465bbedeaf7344b18812.png?r=19m" width="300" alt="Hendra Agil Syaputra's Dev Card"/>
       </a>
     </div>
     <div style="display: flex; flex-direction: column; margin: 0 5px;">
