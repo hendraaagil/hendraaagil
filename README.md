@@ -1,4 +1,4 @@
-![Hendra Agil's Card Name](https://cardivo.vercel.app/api?name=Hendra%20Agil&description=Hi,%20I%27m%20a%20Web%20Developer%20and%20I%27m%2018%20y.o.%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://raw.githubusercontent.com/hendraaagil/website/main/public/ha-logo.png&backgroundColor=%231d1f28&pattern=brickWall&colorPattern=%23EFF4F6&opacity=0.05&fontColor=%23eff4f6)
+![Hendra Agil's Card Name](https://raw.githubusercontent.com/gist/hendraaagil/f2e055520ce307dd59a1afb3b2eceec7/raw/22ff8ee2ce5322de8f167b6dad07bb23ffb5fe2a/card.svg)
 
 ---
 
