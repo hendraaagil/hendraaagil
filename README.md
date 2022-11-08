@@ -1,4 +1,4 @@
-![Hendra Agil's Card Name](https://raw.githubusercontent.com/gist/hendraaagil/f2e055520ce307dd59a1afb3b2eceec7/raw/22ff8ee2ce5322de8f167b6dad07bb23ffb5fe2a/card.svg)
+![Hendra Agil's Card Name](https://gist.githubusercontent.com/hendraaagil/f2e055520ce307dd59a1afb3b2eceec7/raw/97ef87ef557b4c70cc7055afe919c39c10f77c74/card.svg)
 
 ---
 
