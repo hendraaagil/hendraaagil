@@ -23,7 +23,7 @@
       </div>
       <hr />
       <img src="https://github-readme-stats.vercel.app/api?username=hendraaagil&theme=react&show_icons=true&custom_title=Hendra%20Agil%27s%20GitHub%20Stats" width="450" alt="GitHub Stats" style="margin-top: 10px;" />
-      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=hendraaagil&theme=react&layout=compact&langs_count=10&custom_title=Hendra%20Agil%27s%20Wakatime%20Stats" width="450" alt="Wakatime Stats" style="margin-top: 10px;" />
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=hendraaagil&theme=react&layout=compact&range=last_7_days&langs_count=10&custom_title=Hendra%20Agil%27s%20Wakatime%20Stats" width="450" alt="Wakatime Stats" style="margin-top: 10px;" />
     </div>
   </div>
 </div>
