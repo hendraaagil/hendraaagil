@@ -1,24 +1,19 @@
-![Hendra Agil's Card Name](https://cardivo.vercel.app/api?name=Hendra%20Agil&description=Hi,%20I%27m%20a%20Software%20Developer.%20Nice%20to%20meet%20you!%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/u/54741166?v=4&backgroundColor=%231d1f28&pattern=brickWall&colorPattern=%23EFF4F6&opacity=0.05&fontColor=%23eff4f6)
+![Hendra Agil's Card Name](https://cardivo.vercel.app/api?name=Hendra%20Agil&description=Hi,%20I%27m%20a%20Software%20Engineer.%20Nice%20to%20meet%20you!%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/u/54741166?v=4&backgroundColor=%230F172A&pattern=brickWall&colorPattern=%23EFF4F6&opacity=0.05&fontColor=%23F9FAFC)
 
 ---
 
 <div align="center">
   <div style="display: flex; width: 100%; justify-content: center; align-items: center;">
-    <!-- <div style="margin: 0 5px;">
-      <a href="https://app.daily.dev/hendraaagil">
-        <img src="https://api.daily.dev/devcards/4ec5643ee0ff465bbedeaf7344b18812.png?r=19m" width="275" alt="Hendra Agil Syaputra's Dev Card"/>
-      </a>
-    </div> -->
     <div style="display: flex; flex-direction: column; margin: 0 5px;">
       <div style="display: flex; justify-content: space-around;">
-        <a href="https://twitter.com/hendraaagil" target="_blank">
-          <img src="https://img.shields.io/badge/twitter-%231DA1F2?&style=for-the-badge&logo=twitter&logoColor=white" />
+        <a href="https://x.com/hendraaagil" target="_blank">
+          <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X" />
         </a>
         <a href="https://linkedin.com/in/hendraaagil" target="_blank">
-          <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+          <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
         </a>
         <a href="https://t.me/hendraaagil" target="_blank">
-          <img src="https://img.shields.io/badge/-Telegram-2ca5e0?style=for-the-badge&logo=telegram" alt="Telegram" />
+          <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
         </a>
       </div>
       <hr />
