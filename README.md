@@ -3,4 +3,17 @@
 ---
 
 <!--START_SECTION:waka-->
+
+```json
+From: 24 May 2021 - To: 09 August 2026
+
+Total Time: 4,429 hrs 33 mins
+
+TypeScript                 1,692 hrs 52 mins     ███████▒░░░░░░░░░░░░░░░░░   29.80 %
+JavaScript                 1,625 hrs 10 mins     ███████░░░░░░░░░░░░░░░░░░   28.61 %
+Other                      1,250 hrs 30 mins     █████▓░░░░░░░░░░░░░░░░░░░   22.02 %
+JSON                       259 hrs 25 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 %
+PHP                        187 hrs 24 mins       ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.30 %
+```
+
 <!--END_SECTION:waka-->
