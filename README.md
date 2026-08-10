@@ -2,23 +2,5 @@
 
 ---
 
-<div align="center">
-  <div style="display: flex; width: 100%; justify-content: center; align-items: center;">
-    <div style="display: flex; flex-direction: column; margin: 0 5px;">
-      <div style="display: flex; justify-content: space-around;">
-        <a href="https://x.com/hendraaagil" target="_blank">
-          <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X" />
-        </a>
-        <a href="https://linkedin.com/in/hendraaagil" target="_blank">
-          <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-        </a>
-        <a href="https://t.me/hendraaagil" target="_blank">
-          <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-        </a>
-      </div>
-      <hr />
-      <img src="https://github-readme-stats.vercel.app/api?username=hendraaagil&theme=react&show_icons=true&custom_title=Hendra%20Agil%27s%20GitHub%20Stats" width="450" alt="GitHub Stats" style="margin-top: 10px;" />
-      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=hendraaagil&theme=react&layout=compact&range=last_7_days&langs_count=10&custom_title=Hendra%20Agil%27s%20Wakatime%20Stats" width="450" alt="Wakatime Stats" style="margin-top: 10px;" />
-    </div>
-  </div>
-</div>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
