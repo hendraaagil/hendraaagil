@@ -4,9 +4,7 @@
 
 <!--START_SECTION:waka-->
 
-```json
-From: 24 May 2021 - To: 09 August 2026
-
+```txt
 Total Time: 4,429 hrs 33 mins
 
 TypeScript                 1,692 hrs 52 mins     ███████▒░░░░░░░░░░░░░░░░░   29.80 %
@@ -14,6 +12,11 @@ JavaScript                 1,625 hrs 10 mins     ███████░░░�
 Other                      1,250 hrs 30 mins     █████▓░░░░░░░░░░░░░░░░░░░   22.02 %
 JSON                       259 hrs 25 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 %
 PHP                        187 hrs 24 mins       ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.30 %
+HTML                       87 hrs 23 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
+Blade Template             80 hrs 29 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
+SCSS                       74 hrs 18 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 %
+Markdown                   55 hrs 55 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
+YAML                       55 hrs 53 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
 ```
 
 <!--END_SECTION:waka-->
